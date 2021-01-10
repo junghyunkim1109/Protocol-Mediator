@@ -4,7 +4,7 @@ A protocol mediator that takes in HTTP or FTP request, sends a DNS request to fi
 
 
 
-Class project for CS656 (Internet & Higher-Layer Protocols).
+[ Class project for CS656 (Internet & Higher-Layer Protocols) ]
 
 - As a project for the IHLP course, HTTP-related Java APIs (ie. HttpURLConnection) were intentionally restricted in order to work with packets at the byte level for enhanced understanding of network data transmission and socket programming.
 
